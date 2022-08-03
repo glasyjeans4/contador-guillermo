@@ -1,0 +1,65 @@
+body{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+
+
+}
+
+#navbar{
+background-color:rgb(52, 59, 59) ;
+display:flex ;
+justify-content: space-between;
+padding: 0.5em 2em;
+
+}
+#links{
+    margin: auto;   
+}
+#li{
+
+
+margin: 0.5em;
+color: white;
+text-decoration:none;
+
+}
+
+
+#imgCarrito{
+    width: 2em;
+}
+
+h1,h2{
+color: azure;
+font-family: 'Courier New', Courier, monospace;
+margin: auto; 
+}
+
+#card{
+    padding: 10em 5em;
+    background-color: gray;
+    width:12em;
+    margin-left: 10em;
+    margin-top: 5em;
+    border-style:solid ;
+    border-width: 2px;
+    border-color: aqua;
+    box-shadow: 0 20px 40px -14px rgba(0,0,0,0.25);
+}
+
+#contcard{
+text-align:center;
+margin-top:10px;
+font-size: x-large;
+
+
+}
+#contador{
+    text-align:center;
+    margin-top:10px;
+    font-size: x-large;
+    padding: 0.4rem;
+    background-color: white;
+    
+    }
